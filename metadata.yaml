@@ -1,0 +1,27 @@
+_repo: In-gondoletaBarcarole-e-Rime-Veneziane_19894
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Negri, Antonio
+    gutenberg_agent_id: '8945'
+    url: http://www.gutenberg.org/2009/agents/8945
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2006-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19894'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: 'In gondoleta
+
+  Barcarole e Rime Veneziane'
+url: http://www.gutenberg.org/ebooks/19894
